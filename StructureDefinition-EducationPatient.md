@@ -41,7 +41,7 @@ Other representations of profile: [CSV](StructureDefinition-EducationPatient.csv
   "name" : "EducationPatient",
   "title" : "Education Patient",
   "status" : "draft",
-  "date" : "2026-10-20T07:19:28+00:00",
+  "date" : "2026-10-20T07:28:54+00:00",
   "publisher" : "FHIR-utbildning",
   "description" : "Patientprofil för FHIR-utbildningen. Profilen byggs ut steg för steg under kursen.",
   "jurisdiction" : [{

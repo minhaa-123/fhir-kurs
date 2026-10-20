@@ -14,7 +14,7 @@
   <name value="SkyddadIdentitet"/>
   <title value="Skyddad identitet"/>
   <status value="draft"/>
-  <date value="2026-10-20T07:19:37+00:00"/>
+  <date value="2026-10-20T07:29:11+00:00"/>
   <publisher value="FHIR-utbildning"/>
   <description value="Anger om patienten har skyddade personuppgifter (t.ex. sekretessmarkering eller skyddad folkbokföring)."/>
   <jurisdiction>
